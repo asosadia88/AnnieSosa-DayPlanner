@@ -22,7 +22,7 @@ $(function () {
     if(i === currentHour) {
       hour.addClass("present");
     }
-    else if (i< currentHour) {
+    else if (i < currentHour) {
       hour.addClass("past");
     }
     else if (i > currentHour){
