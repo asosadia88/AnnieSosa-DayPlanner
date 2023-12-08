@@ -16,7 +16,7 @@ This site may now be accessed with all its updated features by visiting the hype
 <!-- https://asosadia88.github.io/------ -->
 
 The page will welcome you with the following image:
-<img src="./images/README%20Screenshot.png" alt="planner screenshot">
+<img src="" alt="planner screenshot">
 
 ## Credits
 
