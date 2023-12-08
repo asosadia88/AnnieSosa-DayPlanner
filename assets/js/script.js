@@ -15,7 +15,7 @@ $(function () {
   // past, present, and future classes? How can Day.js be used to get the
   // current hour in 24-hour time?
   /* Loop to check present or future*/
-  for (let i=9; i<18 i++) {
+  for (let i=9; i<18; i++) {
     var hour = $("hour-"+i);
     var event = localStorage.getItem("hour-"+i);
     hour.children("textarea").val(event);
@@ -26,7 +26,7 @@ $(function () {
       hour.addClass("past");
     }
     else if (i > currentHour){
-      HTMLPictureElement.addClass("future");
+    hour.addClass("future");
     }
   }
 
