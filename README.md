@@ -16,17 +16,15 @@ This site may now be accessed with all its updated features by visiting the hype
 <!-- https://asosadia88.github.io/------ -->
 
 The page will welcome you with the following image:
-<img src="./images/README%20Screenshot.png" alt="README screenshot">
+<img src="./images/README%20Screenshot.png" alt="planner screenshot">
 
 ## Credits
 
-An essential component of successfully completing this assignment, was the ability to build and work with a team. I would like to attribute the success of meeting this project's acceptance criteria to the contributions of my following classmates once again to: Lourdes Dorvilus, Rujaine Mena, Jovanni Bogardus, and Lissette Garcia.
+I would like to attribute the success of meeting this project's acceptance criteria to the instructor, TAs, tutors, and support of classmates.
  
-To supplement the design of the Portfolio, the following sites were utilized:
--Canva.com for header figure. 
--Google Fonts for unique fonts.
--W3 Schools for CSS notes.
--MDN Web Docs for CSS notes.
+To supplement the design of the application, the following sites were utilized:
+Youtube
+W3 Schools
 
 ## License
 
